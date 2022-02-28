@@ -13,3 +13,10 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Variable types
 3. IOTA
 4. Bit shiftting
+
+## Ninja level 3
+
+1. Control flow
+2. Loop
+3. Conditional
+4. Modulus
