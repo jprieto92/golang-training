@@ -20,3 +20,10 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Loop
 3. Conditional
 4. Modulus
+
+## Ninja level 4
+
+1. Array
+2. Slice
+3. Make
+4. Range
