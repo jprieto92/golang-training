@@ -27,3 +27,10 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Slice
 3. Make
 4. Range
+
+## Ninja level 5
+
+1. Structs
+2. Anonymous Structs
+3. Promotion
+4. "OOP" style
