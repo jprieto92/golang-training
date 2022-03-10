@@ -34,3 +34,12 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Anonymous Structs
 3. Promotion
 4. "OOP" style
+
+## Ninja level 6
+
+1. Funcs
+2. Variadic funcs
+3. Funcs expr
+4. Callbacks
+5. Closure
+
