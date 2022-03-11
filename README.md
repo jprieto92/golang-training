@@ -43,3 +43,6 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 4. Callbacks
 5. Closure
 
+## Ninja level 7
+
+1. Pointers
