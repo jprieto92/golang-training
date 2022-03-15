@@ -46,3 +46,11 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 ## Ninja level 7
 
 1. Pointers
+
+## Ninja level 8
+
+1. JSON
+2. Writer interface
+3. Sort
+4. Sort custom
+5. bcrypt
