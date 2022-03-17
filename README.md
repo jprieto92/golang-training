@@ -54,3 +54,10 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 3. Sort
 4. Sort custom
 5. bcrypt
+
+## Ninja level 9
+
+1. Wait groups
+2. Method sets
+3. Mutex
+4. Atomic

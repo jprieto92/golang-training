@@ -1,7 +1,7 @@
 # golang-training
 golang exercises of the course " Learn How To Code: Google's Go (golang) Programming Language"
 
-## Ninja level 7
+## Ninja level 8
 
 ### EX1
 Starting with this code (https://go.dev/play/p/_fQUGm9Utvl), marshal the []user to JSON. There is a little bit of a curve ball in this hands-on exercise - remember to ask yourself what you need to do to EXPORT a value from a package.
