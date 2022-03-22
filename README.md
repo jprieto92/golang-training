@@ -61,3 +61,12 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Method sets
 3. Mutex
 4. Atomic
+
+## Ninja level 10
+
+1. Channels
+2. Range
+3. Select
+4. Comma ok idiom
+5. Fan in - Fan out
+6. Context
