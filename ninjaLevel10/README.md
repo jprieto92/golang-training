@@ -28,7 +28,22 @@ Write a program that
 - pull the numbers off the channel and print them
 
 ### EX7
-Wwrite a program that
+Write a program that
 - launches 10 goroutines
   - each goroutine adds 10 numbers to a channel
 - pull the numbers off the channel and print them
+
+### EX8
+Using Fan in pattern, write a program that
+- generate 100 numbers
+  - send even to one channel
+  - send odd to another
+- pull the numbers off the channels and collect them in the same channel
+- print the final numbers
+
+### EX9
+Using Fan out pattern, write a program that
+- generate 100 numbers
+- pull the numbers off the channel and create a goroutine for every number to do anything with them
+  - send the result to result channel
+- print all results
