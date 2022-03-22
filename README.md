@@ -70,3 +70,10 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 4. Comma ok idiom
 5. Fan in - Fan out
 6. Context
+
+## Ninja level 11
+
+1. Errors
+2. Printing & logging
+3. Errors with info
+4. Recover
