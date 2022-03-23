@@ -1,7 +1,7 @@
 # golang-training
 golang exercises of the course " Learn How To Code: Google's Go (golang) Programming Language"
 
-## Ninja level 10
+## Ninja level 11
 
 ### EX1
 Start with this code (). Instead of using the blank identifier, make sure the code is checking and handling the error.

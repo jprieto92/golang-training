@@ -77,3 +77,9 @@ golang exercises of the course " Learn How To Code: Google's Go (golang) Program
 2. Printing & logging
 3. Errors with info
 4. Recover
+
+## Ninja level 12
+
+1. Test
+2. Documentation: Example
+3. Benchmarking
