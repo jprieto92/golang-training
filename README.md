@@ -113,4 +113,9 @@ Golang exercises from this book using TDD.
 3. Channels
 4. Benchmarking
 
+### WebsiteRacer
+1. Concurrency
+2. Net package
+3. Select
+4. Goroutines
 
