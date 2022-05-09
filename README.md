@@ -107,3 +107,10 @@ Golang exercises from this book using TDD.
 1. Mocking
 2. Dependency injection
 
+### WebsiteChecker
+1. Concurrency
+2. Goroutines
+3. Channels
+4. Benchmarking
+
+
