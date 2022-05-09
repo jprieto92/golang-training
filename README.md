@@ -88,10 +88,18 @@ Golang exercises of this Udemy course.
 3. Benchmarking
 
 ## Learn go with tests
-Golang exercises from this book.
+Golang exercises from this book using TDD.
 
-### Geometry
+### Shapes
 1. Structs
 2. Methods
 3. Interfaces
+
+### Wallet
+1. Pointers
+2. Errors
+
+### Dictionary
+1. Maps
+2. CRUD API
 
