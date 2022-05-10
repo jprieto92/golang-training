@@ -119,3 +119,8 @@ Golang exercises from this book using TDD.
 3. Select
 4. Goroutines
 
+### Counter
+1. Concurrency
+2. Sync
+3. Goroutinescd 
+
